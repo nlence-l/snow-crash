@@ -1,9 +1,11 @@
 level00:level00
-flag00:???
 level01:???
-flag01:abcdefg
 level02:f2av5il02puano7naaf6adaaf
-flag02:ft_waNDReL0L
 level03:kooda2puivaav1idi4f57q8iq
-flag03:---
 level04:qi0maab88jeaj46qoumi7maus
+level05:ne2searoevaevoem4ov4ar8ap
+level06:wiok45aaoguiboiki2tuin6ub
+flag00:???
+flag01:abcdefg
+flag02:ft_waNDReL0L
+flag03:---

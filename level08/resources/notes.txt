@@ -1,0 +1,1 @@
+The token file isn't readable, hence it must be the solution. The binary obviously reads a file. Creat a symlink to bypass the restriction

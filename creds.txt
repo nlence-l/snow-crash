@@ -5,7 +5,14 @@ level03:kooda2puivaav1idi4f57q8iq
 level04:qi0maab88jeaj46qoumi7maus
 level05:ne2searoevaevoem4ov4ar8ap
 level06:wiok45aaoguiboiki2tuin6ub
+level07:
+level08:
+level09:
+
 flag00:???
 flag01:abcdefg
 flag02:ft_waNDReL0L
 flag03:---
+flag08:quif5eloekouj29ke0vouxean
+flag09:f3iji1ju5yuevaus41q1afiuq
+flag10:woupa2yuojeeaaed06riuj63c

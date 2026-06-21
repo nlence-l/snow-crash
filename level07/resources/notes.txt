@@ -1,0 +1,1 @@
+Use strings command on the binary. guess the LOGNAME variable will be used on asprintf.

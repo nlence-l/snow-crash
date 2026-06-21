@@ -1,0 +1,1 @@
+Poling around with the binary you get the pattern, it increment each letter by it's index.

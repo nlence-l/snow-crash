@@ -1,0 +1,1 @@
+Using gdb with a ptrace bypass you are able to once again change the value of the eax register in the getuid function to the uid of flag14.

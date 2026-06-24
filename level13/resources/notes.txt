@@ -1,0 +1,1 @@
+Using gdb you are able the change the value of the eax register to 4242 and get the flag.

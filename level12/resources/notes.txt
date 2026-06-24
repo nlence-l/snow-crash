@@ -1,0 +1,1 @@
+To get rce you need to bypass the uppercase filter which will cancel getflag command or paths like /tmp becomes /TMP.
